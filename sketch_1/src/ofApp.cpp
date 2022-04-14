@@ -22,7 +22,7 @@ void ofApp::setup(){
 	colors[5] = color6;
 
 	//random function to generate different colors
-	colorIndex = ofRandom(6);
+	colorIndex = ofRandom(5);
 
 	ofBackground(colors[colorIndex]);
 }
@@ -41,11 +41,11 @@ void ofApp::draw(){
 	ofSetCircleResolution(100);
 
 	//draw three different circles with three different colors that change on every run
-	ofSetColor(colors[(colorIndex + 1) % 6]);
+	ofSetColor(colors[(colorIndex + 1) % 5]);
 	ofCircle(-330, 0, 130);
-	ofSetColor(colors[(colorIndex + 2) % 6]);
+	ofSetColor(colors[(colorIndex + 2) % 5]);
 	ofCircle(0, 0, 130);
-	ofSetColor(colors[(colorIndex + 3) % 6]);
+	ofSetColor(colors[(colorIndex + 3) % 5]);
 	ofCircle(+330, 0, 130);
 
 }
