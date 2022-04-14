@@ -5,6 +5,7 @@ void ofApp::setup(){
 	
 	ofSeedRandom();
 
+	//set color rgb values to a sunset palette from:https://www.schemecolor.com/sunset-tones.php
 	color1.set(8, 24, 58);
 	color2.set(21, 40, 82);
 	color3.set(75, 61, 96);
@@ -12,7 +13,7 @@ void ofApp::setup(){
 	color5.set(252, 156, 84);
 	color6.set(255, 227, 115);
 
-
+	//set each color in its corresponding array
 	colors[0] = color1;
 	colors[1] = color2;
 	colors[2] = color3;
@@ -20,6 +21,7 @@ void ofApp::setup(){
 	colors[4] = color5;
 	colors[5] = color6;
 
+	//random function to generate different colors
 	colorIndex = ofRandom(6);
 
 	ofBackground(colors[colorIndex]);
@@ -33,9 +35,12 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
 
+	//set origin to be in the center
 	ofTranslate(ofGetWidth() / 2, ofGetHeight() / 2);
+	
 	ofSetCircleResolution(100);
 
+	//draw three different circles with three different colors that change on every run
 	ofSetColor(colors[(colorIndex + 1) % 6]);
 	ofCircle(-330, 0, 130);
 	ofSetColor(colors[(colorIndex + 2) % 6]);
