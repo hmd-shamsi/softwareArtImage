@@ -21,6 +21,7 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 
+		//categorize colors
 		ofColor color1;
 		ofColor color2;
 		ofColor color3;
@@ -28,8 +29,10 @@ class ofApp : public ofBaseApp{
 		ofColor color5;
 		ofColor color6;
 
+		//create an array of colors
 		ofColor colors[6];
 
+		//define color index
 		int colorIndex;
 		
 };
