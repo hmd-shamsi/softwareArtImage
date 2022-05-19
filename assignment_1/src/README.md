@@ -1,4 +1,4 @@
-=DISTRACTED BEING=
+**=DISTRACTED BEING=**
 
 - portays a creature that is distracted by the numerous elements surrounding it.
 - creature's eye move as he looks at the distinct and different elements every time the **_space_** button is pressed.
