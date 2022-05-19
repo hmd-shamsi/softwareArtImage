@@ -21,6 +21,22 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 
+		/*
+		float tickSpeed = 0;
+		int colorsIndex;
+
+		ofSoundPlayer gimmeAudio;
+		ofVideoPlayer discoVideo;
+
+		ofColor color1;
+		ofColor color2;
+		ofColor color3;
+		ofColor color4;
+		ofColor color5;
+
+		ofColor colors[5];
+		*/
+
 		float tickSpeed = 0;
 		ofSoundPlayer gimmeAudio;
 		ofVideoPlayer discoVideo;
