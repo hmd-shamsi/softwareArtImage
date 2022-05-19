@@ -1,8 +1,8 @@
-**=DISTRACTED BEING=**
+**=DISTRACTED ALIEN=**
 
-- portays a creature that is distracted by the numerous elements surrounding it.
-- creature's eye move as he looks at the distinct and different elements every time the **_space_** button is pressed.
-- the number of sides that represent the creature alter the way it looks when the _**left mouse button**_ is pressed. 
+- portays an alien that is distracted by the numerous elements surrounding it.
+- aliens' eye move as he looks at the distinct and different elements every time the **_space_** button is pressed.
+- the number of sides that represent the alien alter the way it looks when the _**left mouse button**_ is pressed. 
 - inspired by an 'alien' color palette consisting of calm green and purple tones. _(https://www.color-hex.com/color-palette/16419)_ 
 
 
