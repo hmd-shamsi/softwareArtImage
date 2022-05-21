@@ -72,6 +72,6 @@
 https://user-images.githubusercontent.com/72342923/169631080-5e929bb9-d231-4a23-8f84-7ea23ba3fc0b.mp4
 
 **extras:**
-- pressing the _'A'_ key reverts the damage/change done, so do not worry... no Bobs were harmed during the making of this.
-- holding _space bar_ and then _'A'_ displays a cool effect as you see Bob go through his stages all over again!
+- pressing the _'M' (for 'eMANGgercy')_ key reverts the damage/change done, so do not worry... no Bobs were harmed during the making of this.
+- holding _space bar_ and then _'M'_ displays a cool effect as you see Bob go through his stages all over again!
 
