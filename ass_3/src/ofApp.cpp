@@ -91,7 +91,7 @@ void ofApp::draw() {
 
 
 
-		tickSpeed = now + 0.01;
+		tickSpeed = now + 0.07;
 	}
 
 	ofPopStyle();
