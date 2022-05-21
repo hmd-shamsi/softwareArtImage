@@ -3,7 +3,7 @@
 - _**background**_ consists of an abundant number of stars that are continously moving. 
 - _**shapes**_ present include decagons, octagons, quadrilaterals, triangles, and much more.
 - _**colors**_ used are composed using calm shades of a gradient that subtely shifts from _alien_ green to _monster_ purple.
-- _**concept**_ is inspired by the numerous assignemts and sketches we have been assigned ranging from the construction of simple shapes to the complex inclusion of noise rotation using time-dependant functions.
+- _**concept**_ is inspired by the numerous assignemts and sketches we have been assigned ranging from the construction of simple shapes to the complex inclusion of noise rotation using time-dependant functions to implement animations.
 - _**story:**_ a curious alien is shown to go through dimensions in a process where he gets controlled by influence as he gets curious about triangluar candies that are out of his reach _(includes a little plot twist)_.
 - _**pictures**_ and a _**video**_ are previewed below!
 
@@ -65,6 +65,7 @@
 **screenshot#9:**
 ![image](https://user-images.githubusercontent.com/72342923/169630866-f8da754d-dfac-49de-b7d1-aaba7af22e39.png)
 - Bob has indeed become a _purple_ _triangle_... a candy.
+- HE ALSO SPINS! (imitating the candies surrounding him)
 - _(03 sided - candy dimension)_
 
 **vid _(attached)_:**
