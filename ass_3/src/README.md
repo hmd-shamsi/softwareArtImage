@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/72342923/169630492-672f7ab3-8b1e-481a-8b6a-357aed442931.png)
 - Bob notices you as you press the _spacebar_! (pun intended)
 - his eye immediately turns to you, he does that occasioanlly, signalling confusion.
-- - _(10 sided - decagon dimension)_
+- _(10 sided - decagon dimension)_
 
 
 **screenshot#3:**
@@ -45,22 +45,21 @@
 **screenshot#6:**
 ![image](https://user-images.githubusercontent.com/72342923/169630775-ac5b8864-4088-4e7d-ad8d-9b96d11d4156.png)
 - "they truly do grow fast" you sigh... however, you realize that Bob has been LOSING HIS SIDES!
+- Bob has started of with 10 charming sides! Why is does he only have half the amount now?!
 - _(06 sided - hexagon dimension)_
 
 
 **screenshot#7:**
 ![image](https://user-images.githubusercontent.com/72342923/169630802-b1a7ebec-9dde-47a0-9ebd-2a78a491f856.png)
-starts to realize the changes he is going through
-- Bob has started of with 10 charming sides! Why is does he only have half the amount now?!
 - you realize the more time he spends around these _purple triangles_, the more he is altered... "wait... wasn't Bob green?!" you suddenly exclaim.
+- you see Bob's transformations right in front of your eyes, and you connect the dots...
 - _(05 sided - pentagon dimension)_
 
 
 **screenshot#8:**
 ![image](https://user-images.githubusercontent.com/72342923/169630845-152050c2-17d9-4fa8-9d0c-d8a7e7adab40.png)
-yet it is too late
-- you see Bob's transformations right in front of your eyes, and you connect the dots...
-- "shifting from green to purple... losing his sides from 10 to 9, 8, 7, 6, 5, and now 4..." this causes you to inevitably realize the next incoming shape, which means that our beloved Bob will...
+- "shifting from green to purple... losing his sides from 10 to 9, 8, 7, 6, 5, and now 4..." this causes you to inevitably realize the next incoming shape, this causes you and Bob lock eyes.
+- this means that our beloved Bob will...
 - _(04 sided - diamond dimension)_
 
 **screenshot#9:**
@@ -70,4 +69,8 @@ yet it is too late
 
 **vid _(attached)_:**
 https://user-images.githubusercontent.com/72342923/169631080-5e929bb9-d231-4a23-8f84-7ea23ba3fc0b.mp4
+
+**extras:**
+- pressing the _'A'_ key reverts the damage/change done, so do not worry... no Bobs were harmed during the making of this.
+- holding _space bar_ and then _'A'_ displays a cool effect as you see Bob go through his stages all over again!
 
